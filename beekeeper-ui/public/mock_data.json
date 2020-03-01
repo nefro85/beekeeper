@@ -1,0 +1,64 @@
+{
+    "hiveList" : [
+        {
+            "$type" : "hive",
+            "name" : "Hive Emila 6912321",
+            "frames" : [
+                {
+                    "$type" : "frame",
+                    "type" : "work"
+                    
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "work"
+                    
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "work"
+                    
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "wax"
+                }
+                
+            ]
+        },
+        {
+            "$type" : "hive",
+            "name" : "Hive Rafał 102",
+            "frames" : [
+                {
+                    "$type" : "frame",
+                    "type" : "work"
+                    
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "work"
+                    
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "work"
+                    
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "wax"
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "wax"
+                },
+                {
+                    "$type" : "frame",
+                    "type" : "wax"
+                }                
+                
+            ]
+        }
+    ]
+}
